@@ -1,3 +1,9 @@
+
+
+# Epidemic Prediction and Notification System
+Project Developed for Wuhan2020 Hackathon by Team 20
+
+
 Workflow of Platform:  https://github.com/ashfaq92/Hackathon/blob/master/ChallengeProject/Platform_fianal_flow.pdf
 
 Video Demo: https://files.slack.com/files-pri/TT5U1VCPQ-FV3AH98S2/video_demo.mp4
