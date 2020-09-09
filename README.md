@@ -1,18 +1,22 @@
 
 
 # Epidemic Prediction and Notification System
-Project Developed for Wuhan2020 Hackathon by Team 20
 
-Download complete project data code+ppt+demo: https://we.tl/t-4qgE1pbUnP
+### This project is an effort to predict the spread dynamics and severity of a new unknown virus by comparing it genetic sequence with previous known viruses.
+Project Developed for Wuhan2020 Hackathon by Team 20. Third prize winner project
 
-
-
-Workflow of Platform:  https://github.com/ashfaq92/Hackathon/blob/master/ChallengeProject/Platform_fianal_flow.pdf
-
-Video Demo: https://files.slack.com/files-pri/TT5U1VCPQ-FV3AH98S2/video_demo.mp4
-
-Final Presentation: https://github.com/ashfaq92/Hackathon/blob/master/ChallengeProject/Epidemic%20prediction%20and%20notification%20triggering%20system_07032020.pdf
+Video Demo: Click <a href="https://files.slack.com/files-pri/TT5U1VCPQ-FV3AH98S2/video_demo.mp4">here</a>  
 
 
-Complete Code: https://wuhan2020.slack.com/files/UURFHQUKY/FUNAR1T26/prediction_notification_code.zip
-
+Presentation:
+![alt text](docs/Epidemic prediction and notification triggering system_07032020-page-002 "Title")
+![alt text](docs/Epidemic prediction and notification triggering system_07032020-page-003 "Title")
+![alt text](docs/Epidemic prediction and notification triggering system_07032020-page-004 "Title")
+![alt text](docs/Epidemic prediction and notification triggering system_07032020-page-005 "Title")
+![alt text](docs/Epidemic prediction and notification triggering system_07032020-page-006 "Title")
+![alt text](docs/Epidemic prediction and notification triggering system_07032020-page-007 "Title")
+![alt text](docs/Epidemic prediction and notification triggering system_07032020-page-008 "Title")
+![alt text](docs/Epidemic prediction and notification triggering system_07032020-page-009 "Title")
+![alt text](docs/Epidemic prediction and notification triggering system_07032020-page-010 "Title")
+![alt text](docs/Epidemic prediction and notification triggering system_07032020-page-011 "Title")
+![alt text](docs/Epidemic prediction and notification triggering system_07032020-page-012 "Title")
